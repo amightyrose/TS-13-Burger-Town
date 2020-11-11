@@ -1,0 +1,26 @@
+{
+  "name": "ts-13-burger-town",
+  "version": "1.0.0",
+  "description": "Eat some virtual burgers.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timsilby/TS-13-Burger-Town.git"
+  },
+  "author": "Tim Silby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timsilby/TS-13-Burger-Town/issues"
+  },
+  "homepage": "https://github.com/timsilby/TS-13-Burger-Town#readme"
+}
