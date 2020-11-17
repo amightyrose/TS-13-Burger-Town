@@ -1,0 +1,22 @@
+h1 {
+	font-size: 4rem;
+}
+
+main {
+	background-image: url("/assets/css/img/burger.png");
+	/* height: 600px; */
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	margin-bottom: 2rem;
+	min-height: 17rem;
+}
+
+.list-group, .list-group-item {
+	background-color: transparent;
+}
+
+#footer {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
